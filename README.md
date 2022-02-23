@@ -1,24 +1,3 @@
-# README
+# Timeline (Rails 7 & Bootstrap 5)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Timeline screenshot](https://raw.githubusercontent.com/yura-voevodin/rails_bootstrap_timeline/main/Screenshots/Timeline.png)
