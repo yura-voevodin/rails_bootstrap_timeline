@@ -1,0 +1,83 @@
+{
+    "timeline":
+    [
+        {
+            "date": "2020",
+            "title": "Model Y",
+            "description": "<p>In March 2020, Tesla began deliveries of its fifth vehicle model, the <b>Model Y</b> crossover.</p>",
+            "data":
+            {
+                "image":
+                {
+                    "path": "timeline/Model_Y.jpg",
+                    "id": "model_y"
+                },
+                "symbol":
+                {
+                    "icon": "bi-circle",
+                    "color": "cornflowerblue"
+                }
+            }
+        },
+        {
+            "date": "2017–2018",
+            "title": "Model 3",
+            "description": "<p>Tesla began selling its fourth vehicle model, the <b>Model 3</b> sedan, in July 2017. The <b>Model 3</b> was a cheaper vehicle compared to previous Tesla vehicles, and was intended for the mass market.</p>",
+            "data":
+            {
+                "image":
+                {
+                    "path": "timeline/Model_3.jpg",
+                    "id": "model_s"
+                },
+                "symbol":
+                {
+                    "icon": "bi-circle",
+                    "color": "gray"
+                }
+            }
+        },
+        {
+            "date": "June 2012",
+            "title": "Model S",
+            "description": "<p>In June the company launched its second car, the <b>Model S</b> luxury sedan.</p>",
+            "data":
+            {
+                "image":
+                {
+                    "path": "timeline/Model_S.jpg",
+                    "id": "model_s"
+                },
+                "symbol":
+                {
+                    "icon": "bi-circle",
+                    "color": "red"
+                }
+            }
+        },
+        {
+            "date": "",
+            "title": "",
+            "description": "",
+            "comment": "<p>In <b>May 2010</b>, Tesla purchased what would later become the Tesla Factory in Fremont, California, from <b>Toyota</b> for <i>$42 million</i></p>"
+        },
+        {
+            "date": "2005–2009",
+            "title": "Roadster",
+            "description": "<p>Prototypes of Tesla's first car, the <b>Roadster</b>, were officially revealed to the public on July 19, 2006, in Santa Monica, California.</p><p>Tesla began production of the <b>Roadster</b> in 2008.</p><p>By January 2009, Tesla had raised <i>$187 million</i> and delivered <u>147 cars</u>. Musk had contributed <i>$70 million</i> of his own money to the company.</p>",
+            "data":
+            {
+                "image":
+                {
+                    "path": "timeline/Roadster.jpg",
+                    "id": "roadster"
+                },
+                "symbol":
+                {
+                    "icon": "bi-circle",
+                    "color": "orange"
+                }
+            }
+        }
+    ]
+}
